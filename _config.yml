@@ -3,21 +3,21 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Mikhail Pavlukhin
+title: Data Scientist & Backend Developer
+email: alivemihail@gmail.com
+website: archelunch.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: mike_pavlukhin
+github_username:  Archelunch
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: 100007130201341
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: michael.pavlukhin
+linkedin_username: mpavlukhin
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
